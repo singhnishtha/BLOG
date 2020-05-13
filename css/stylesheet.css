@@ -1,0 +1,46 @@
+
+body{
+background-color: violet;
+margin:0px;
+padding:0px;
+color:black;
+text-align:center;}
+#id ul {   
+text-align:center;}
+#id ul {
+list-style:none;}
+
+#id ul li{
+
+background-color:plum;
+height:50px;
+width:325px;
+border:1px solid white;
+line-height:50px;
+float:left;
+ text-align:center;
+ color:black;
+ position:relative;}
+ 
+ #id ul li:hover{
+ background-color:white;
+ }
+ #id  ul ul{
+ display:none;}
+ 
+ #id ul li:hover >ul{
+ display:block;}
+ 
+ #id ul ul ul {
+ margin-left:285px;
+ top:0;
+ position:absolute;
+ }
+ img{ float:left;
+ background-color:coral;
+ margin:100px;
+ width:150px;
+ height:150px;}
+ h2{
+ 
+}

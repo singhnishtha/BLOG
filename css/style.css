@@ -1,0 +1,14 @@
+h1{
+background-color:yellow;
+}
+img{
+width=400px;
+ height:400px;
+ border:15px dotted yellow; 
+background-color:red;
+}
+p{
+background-color:yellow;
+ font-size:24px; color:green;
+ font-family=jokerman;
+}
